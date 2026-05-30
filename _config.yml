@@ -82,9 +82,9 @@ al_folio:
 # Layout
 # -----------------------------------------------------------------------------
 
-navbar_fixed: true
+navbar_fixed: false
 footer_fixed: true
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 posts_in_search: true
 bib_search: true
