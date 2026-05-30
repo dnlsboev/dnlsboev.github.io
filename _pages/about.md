@@ -7,7 +7,7 @@ subtitle: PhD student in Mathematics, Novosibirsk State University
 profile:
   align: right
   image: my_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Novosibirsk State University</p>
     <p>Novosibirsk, Russia</p>
