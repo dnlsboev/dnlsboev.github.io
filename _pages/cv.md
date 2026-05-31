@@ -3,16 +3,14 @@ layout: page
 title: CV
 permalink: /cv/
 nav: true
-nav_order: 4
+nav_order: 5
 ---
-
-A PDF version of my CV will be available here.
 
 ## Education
 
 **PhD student in Mathematics**  
 Novosibirsk State University, Novosibirsk, Russia  
-2024--present  
+2024--present 
 PhD advisor: Prof. Sergey K. Vodopyanov
 
 **MSc in Mathematics**  
@@ -25,21 +23,27 @@ Novosibirsk State University, Novosibirsk, Russia
 
 ## Research interests
 
-My research interests include geometric analysis, analysis on metric measure spaces,
-quasiconformal mappings, and composition operators.
+- Geometric analysis
+- Analysis on metric measure spaces
+- Quasiconformal mappings
+- Sobolev spaces
+- Composition operators
 
 ## Teaching experience
 
-I have taught courses and seminars in:
-
-- Mathematical analysis
-- Functional analysis
-- Optimal control
+- Lecturer and seminar instructor, Optimal Control
+- Seminar instructor, Functional Analysis
+- Seminar instructor, Mathematical Analysis
 
 ## Publications
 
 The list of my publications is available on the [Publications](/publications/) page.
 
-## Academic profiles
+## Academic service
 
-Links to my academic profiles are available on the main page.
+**Editorial Secretary**, *Siberian Mathematical Journal*  
+Novosibirsk, Russia
+2025--present
+
+I assist with the editorial workflow of the journal, including communication with
+authors, reviewers, and editors.
