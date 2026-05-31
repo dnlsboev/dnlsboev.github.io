@@ -29,7 +29,7 @@ Contributed talk, Conference on Geometric Analysis dedicated to the 95th anniver
 [Slides (in russian)](/assets/pdf/2024-ConfGA-Slides.pdf)
 
 **Semicontinuity of the operator distortion function under convergence of homeomorphisms in $L_{1,\mathrm{loc}}$**  
-Talk, XIX Vladikavkaz Youth Mathematical School, online, 2024.
+Talk, XIX Vladikavkaz Youth Mathematical School, online, 2024.  
 [Slides (in russian)](/assets/pdf/2024-VYMS-Slides.pdf)
 
 **Lower semicontinuity of operator distortion functions on Carnot groups**  
