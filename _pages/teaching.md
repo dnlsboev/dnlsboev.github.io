@@ -10,14 +10,12 @@ I have teaching experience in mathematical analysis, functional analysis, and op
 
 My teaching activities include lectures, seminars, and preparation of supplementary materials for students.
 
-## Courses and seminars
-
-### Mathematical Analysis
+#### Mathematical Analysis
 
 Basic course in mathematical analysis for undergraduate students of the Faculty of Information Technologies 
 at Novosibirsk State University.
 
-### Functional Analysis
+#### Functional Analysis
 
 Seminars in functional analysis for students of the Faculty of Mechanics and Mathematics 
 at Novosibirsk State University.
@@ -29,7 +27,7 @@ Further topics included the Hahn--Banach theorem, the Baire category theorem,
 the uniform boundedness principle, the open mapping and closed graph theorems, 
 weak topology, Fredholm alternatives, compact operators, and elements of spectral theory.
 
-### Optimal Control
+#### Optimal Control
 
 Lectures and seminars in optimal control theory for students of the Faculty of Mechanics and Mathematics 
 at Novosibirsk State University.
