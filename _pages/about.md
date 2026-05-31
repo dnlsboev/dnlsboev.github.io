@@ -32,3 +32,13 @@ My research interests lie in geometric analysis and analysis on metric measure s
 with a particular focus on quasiconformal mappings and composition operators.
 
 I have taught mathematical analysis, functional analysis, and optimal control.
+
+## Forthcoming Events
+
+- **Composition Operators on Sobolev Spaces in Metric Measure Spaces**  
+  [NLA-2026](https://conference.icc.ru/event/11/), Irkutsk, Russia, June 2026.
+
+- **Composition Operators on Sobolev Spaces in Metric Measure Spaces**  
+  [VI Conference of Russian Mathematical Centers](https://mathcenter.kpfu.ru/mc-conf), Kazan, Russia, August 2026.
+
+See also the full list of [talks and posters](/talks/).
