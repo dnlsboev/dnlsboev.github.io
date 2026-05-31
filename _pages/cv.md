@@ -10,7 +10,7 @@ nav_order: 5
 
 **PhD student in Mathematics**  
 Novosibirsk State University, Novosibirsk, Russia  
-2024--present 
+2024--present  
 PhD advisor: Prof. Sergey K. Vodopyanov
 
 **MSc in Mathematics**  
@@ -42,7 +42,7 @@ The list of my publications is available on the [Publications](/publications/) p
 ## Academic service
 
 **Editorial Secretary**, *Siberian Mathematical Journal*  
-Novosibirsk, Russia
+Novosibirsk, Russia  
 2025--present
 
 I assist with the editorial workflow of the journal, including communication with
