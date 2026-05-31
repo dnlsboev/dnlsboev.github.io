@@ -6,8 +6,6 @@ nav: true
 nav_order: 4
 ---
 
-## Talks and Posters
-
 ### 2026
 
 **Composition operators on Sobolev spaces on metric measure spaces**  
@@ -16,7 +14,7 @@ Contributed talk, International Scientific Student Conference, Novosibirsk, Russ
 
 ### 2025
 
-**$\mathcal{Q}_p$-homeomorphisms in metric measure spaces**  
+**$\mathcal{Q}_p$-homeomorphisms on metric measure spaces**  
 Plenary talk, Youth Conference in Memory of Yu. G. Reshetnyak, Novosibirsk, Russia, 2025.  
 [Slides (in russian)](/assets/pdf/2025-ReshetnyakConf-Slides.pdf)
 
