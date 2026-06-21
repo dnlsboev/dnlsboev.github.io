@@ -8,8 +8,8 @@ nav_order: 4
 
 ### 2026
 
-**Composition Operators on Sobolev Spaces in Metric Measure Spaces** 
-Contributed talk, [NLA-2026](https://conference.icc.ru/event/11/), Irkutsk, Russia, 2026.
+**Composition Operators on Sobolev Spaces in Metric Measure Spaces**  
+Contributed talk, [NLA-2026](https://conference.icc.ru/event/11/), Irkutsk, Russia, 2026.  
 [Slides](/assets/pdf/2026-NLA-Slides.pdf)
 
 **Composition operators on Sobolev spaces on metric measure spaces**  
