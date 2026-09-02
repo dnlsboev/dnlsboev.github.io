@@ -33,9 +33,6 @@ with a particular focus on quasiconformal mappings and composition operators.
 
 I have taught mathematical analysis, functional analysis, and optimal control.
 
-## Forthcoming Events
-
-- [VI Conference of Russian Mathematical Centers](https://mathcenter.kpfu.ru/mc-conf),  
-Kazan, Russia, August 2026.
+<!-- ## Forthcoming Events -->
 
 See also the full list of [talks and posters](/talks/).
