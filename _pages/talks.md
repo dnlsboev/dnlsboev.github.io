@@ -8,6 +8,9 @@ nav_order: 4
 
 ### 2026
 
+**Composition Operators on Sobolev Spaces**  
+Plenary talk, [Youth Conference in Memory of Yu. G. Reshetnyak](https://sites.google.com/view/reshetnyak-2026/), Novosibirsk, Russia, 2026.
+
 **Composition Operators on Sobolev Spaces on Metric Measure Spaces**  
 Contributed talk, VI Conference of Mathematical Centers of Russia, Kazan, Russia, 2026.  
 [Slides](/assets/pdf/2026-VI-Conf-MC-Slides.pdf)
