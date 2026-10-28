@@ -8,6 +8,11 @@ nav_order: 4
 
 ### 2026
 
+**Composition Operators between Sobolev Spaces**  
+Analysis School on the Fontanka, Saint Petersburg, Russia, 2026.  
+[Slides](/assets/pdf/2026-Fontanka-Slides.pdf)
+
+
 **Composition Operators on Sobolev Spaces**  
 Plenary talk, [Youth Conference in Memory of Yu. G. Reshetnyak](https://sites.google.com/view/reshetnyak-2026/), Novosibirsk, Russia, 2026.
 
