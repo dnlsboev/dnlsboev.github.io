@@ -20,7 +20,7 @@ Role: seminar instructor.
 
 #### Functional Analysis
 
-Seminars in functional analysis for students of the Faculty of Mechanics and Mathematics 
+Seminars in functional analysis for students of the Department of Mechanics and Mathematics 
 at Novosibirsk State University.
 
 Topics included Banach and Hilbert spaces, bounded linear operators, dual spaces,
@@ -32,7 +32,7 @@ Role: seminar instructor.
 
 #### Optimal Control
 
-Lectures and seminars in optimal control theory for students of the Faculty of Mechanics and Mathematics 
+Lectures and seminars in optimal control theory for students of the Department of Mechanics and Mathematics 
 at Novosibirsk State University.
 
 Topics included linear control systems, controllability, the Pontryagin maximum
@@ -40,3 +40,15 @@ principle, bang-bang controls, and examples illustrating applications of optimal
 control to variational problems and geometry.
 
 Role: lecturer and seminar instructor.
+
+#### Selected Topics of Analysis
+
+Special lecture course for students of the Department of Mechanics and Mathematics at Novosibirsk State University.
+
+Topics include basic facts in topology, 
+absolutely continuous functions and functions of bounded variation, 
+differentiation of measures in Euclidean spaces, 
+Sobolev spaces and fine properties of Sobolev functions, 
+quasiconformal analysis. 
+
+Role: co-developer and lecturer.

@@ -36,3 +36,35 @@ I have taught mathematical analysis, functional analysis, and optimal control.
 <!-- ## Forthcoming Events -->
 
 See also the full list of [talks and posters](/talks/).
+
+## Recent Research Results 
+
+### Composition Operators on Sobolev Spaces
+
+We obtain an analytic characterization 
+of homeomorphisms that induce bounded composition operators 
+between Sobolev (Dirichlet) spaces on metric measure spaces, 
+without assuming completeness, doubling, or Poincare inequalities.
+
+More precisely, we study homeomorphisms 
+$\varphi \colon X \to Y$ 
+for which the composition operator
+
+$$
+\varphi^* \colon D^{1,p}(Y) \cap LIP(Y)
+\to D^{1,q}(X),
+\qquad 1 \leq q \leq p < \infty,
+$$
+
+is bounded, that is,
+
+$$
+\|u \circ \varphi\|_{D^{1,q}(X)}
+\leq K \|u\|_{D^{1,p}(Y)}
+$$
+
+for every $u \in D^{1,p}(Y) \cap LIP(Y)$, with a constant $K$ independent of $u$.
+
+We establish necessary and sufficient analytic conditions 
+for the boundedness of these operators, covering both the cases 
+$1 \le q = p < \infty$ and $1 \le q < p < \infty$.

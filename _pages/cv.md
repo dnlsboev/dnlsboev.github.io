@@ -34,6 +34,7 @@ Novosibirsk State University, Novosibirsk, Russia
 - Lecturer and seminar instructor, Optimal Control
 - Seminar instructor, Functional Analysis
 - Seminar instructor, Mathematical Analysis
+- Co-developer and lecturer, Selected Topics in Analysis
 
 ## Publications
 
